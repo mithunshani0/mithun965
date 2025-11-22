@@ -5,13 +5,13 @@
 
 - 🤝 I’m looking for help with **MERN-STACK**
 
-- 📫 How to reach me **let.create.something@gmail.com**
+- 📫 How to reach me **mk8668677@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mithun36360874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mithun36360874" height="30" width="40" /></a>
+<a href="https://twitter.com/@mithun36360874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
