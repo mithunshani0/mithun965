@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="center">A passionate frontend developer from India,Delhi</h3>
 
-- 🌱 I’m currently learning **MERN-STACK**
 
-- 🤝 I’m looking for help with **MERN-STACK**
+- 🌱 I’m currently learning **MERN-STACK, Oracle(Sql), Java**
+
 
 - 📫 How to reach me **mk8668677@gmail.com**
 
